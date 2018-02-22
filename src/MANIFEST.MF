@@ -1,0 +1,8 @@
+Name: DataDotWorld_Export_SPSS_Stats
+Dialog-Specs: dialog250.cfe
+Summary: export data to DataDotWorld
+Description: DataDotWorld
+Author: Amod Upadhye, Deepak Rangarao
+Version: 1.0.0
+Product-Version: 24
+Plugins: R
