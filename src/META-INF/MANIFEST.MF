@@ -3,6 +3,6 @@ Dialog-Specs: dialog250.cfe
 Summary: export data to DataDotWorld
 Description: DataDotWorld
 Author: Amod Upadhye, Deepak Rangarao
-Version: 1.0.0
+Version: 1.0.1
 Product-Version: 24
 Plugins: R
