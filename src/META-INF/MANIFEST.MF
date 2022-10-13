@@ -1,7 +1,9 @@
 Name: DataDotWorld_Export_SPSS_Stats
+Display-Name: Export Datasets to Data.World
 Dialog-Specs: dialog250.cfe
 Summary: export data to DataDotWorld
-Description: DataDotWorld
+Description: This extension allows you to export datasets to Data.Worl
+ d from SPSS Statistics.
 Author: Amod Upadhye, Deepak Rangarao
 Version: 1.0.1
 Product-Version: 24
